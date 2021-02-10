@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+// Added by Dipesh
+
+required installations : node ( 10.23.3 ), npm version ( 6.14.11 ), angular version ( 11.1.4 ) 
+
+steps to run:
+1. clone git repo
+2. run 'npm install'
+3. run 'npm start'
+4. update your api key in constants.js file
